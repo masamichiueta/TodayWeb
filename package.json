@@ -4,9 +4,7 @@
   "description": "[![Today](https://raw.githubusercontent.com/micchyboy1023/Today/master/Resource/iOSApp/launch_icon.png)](http://uetamasamichi.com/Today)",
   "main": "index.js",
   "scripts": {
-    "build-css": "./bin/build-css",
-    "watch-css": "./bin/watch-css",
-    "ws": "ws"
+    "start": "gulp serve"
   },
   "repository": {
     "type": "git",
@@ -18,9 +16,20 @@
     "url": "https://github.com/micchyboy1023/Today/issues"
   },
   "homepage": "https://github.com/micchyboy1023/Today#readme",
-  "devDependencies": {
-    "local-web-server": "^1.1.2",
-    "node-sass": "^3.4.2",
-    "nodemon": "^1.8.1"
+  "devDependencies": {},
+  "dependencies": {
+    "autoprefixer": "^6.3.6",
+    "bootstrap": "^4.0.0-alpha.2",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "run-sequence": "^1.1.5",
+    "tether": "^1.2.4"
   }
 }

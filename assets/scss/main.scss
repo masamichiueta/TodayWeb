@@ -1,9 +1,14 @@
 @import "common";
 
+body {
+  font-family: -apple-system, "HelveticaNeue-Thin", "Helvetica Neue Thin", Helvetica, Arial, sans-serif;
+}
+
+
 .hero {
   text-align: center;
   padding: 8rem 0 1rem;
-  
+
   @include tablet {
     padding: 16rem 0 5rem;
   }
@@ -13,14 +18,14 @@
   position: relative;
   max-width: 80%;
   margin: 3rem auto 0;
-  
+
   @include tablet {
     position: absolute;
     top: -15rem;
     max-height: 500px;
     right: 0;
   }
-  
+
   @include desktop {
     right: 8rem;
   }
@@ -33,16 +38,13 @@
 
 .quote {
   font-style: italic;
-  font-weight: 300;
-  font-size: 2rem;
-  line-height: 1.6;
-  letter-spacing: 0.02rem;
+  font-size: 1.4rem;
   color: #777;
-  
+
   @include tablet {
-    padding: 22rem 0 0;
+    padding: 10rem 0 0;
   }
-  
+
   .name {
     font-size: 1.5rem;
     color: $quote-name-color;
