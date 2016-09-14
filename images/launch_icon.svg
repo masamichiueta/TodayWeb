@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="259px" height="79px" viewBox="0 0 259 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
     <title>launch_icon</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -26,11 +26,11 @@
                         <use xlink:href="#path-3"></use>
                     </mask>
                     <use id="Mask" fill="#FFFFFF" xlink:href="#path-3"></use>
-                    <rect id="Rectangle-1-Copy-4" fill="#34AADC" mask="url(#mask-4)" x="0.8828125" y="52" width="258.117188" height="27"></rect>
-                    <rect id="Rectangle-1-Copy-3" fill="#48D178" mask="url(#mask-4)" x="0.8828125" y="44" width="258.117188" height="8"></rect>
-                    <rect id="Rectangle-1-Copy-2" fill="#FFCC00" mask="url(#mask-4)" x="0.8828125" y="36" width="258.117188" height="8"></rect>
+                    <rect id="Rectangle-1-Copy-4" fill="#2094FA" mask="url(#mask-4)" x="0.8828125" y="52" width="258.117188" height="27"></rect>
+                    <rect id="Rectangle-1-Copy-3" fill="#04DE71" mask="url(#mask-4)" x="0.8828125" y="44" width="258.117188" height="8"></rect>
+                    <rect id="Rectangle-1-Copy-2" fill="#FFE620" mask="url(#mask-4)" x="0.8828125" y="36" width="258.117188" height="8"></rect>
                     <rect id="Rectangle-1-Copy" fill="#FF9500" mask="url(#mask-4)" x="0.8828125" y="28" width="258.117188" height="8"></rect>
-                    <rect id="Rectangle-1" fill="#FF3830" mask="url(#mask-4)" x="0.8828125" y="1" width="258.117188" height="27"></rect>
+                    <rect id="Rectangle-1" fill="#FA114F" mask="url(#mask-4)" x="0.488525391" y="1" width="258.511475" height="27"></rect>
                 </g>
             </g>
         </g>
