@@ -1,7 +1,7 @@
 {
   "name": "today",
   "version": "1.0.0",
-  "description": "[![Today](https://raw.githubusercontent.com/micchyboy1023/Today/master/Resource/iOSApp/launch_icon.png)](http://uetamasamichi.com/Today)",
+  "description": "[![Today](https://raw.githubusercontent.com/micchyboy1023/Today/master/Resource/iOSApp/launch_icon.png)](https://micchyboy1023.github.io/Today)",
   "main": "index.js",
   "scripts": {
     "start": "gulp serve"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/micchyboy1023/Today.git"
   },
-  "author": "Masamichi Ueta",
+  "author": "micchyboy1023",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/micchyboy1023/Today/issues"
